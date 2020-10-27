@@ -1,6 +1,7 @@
 # IBCSAL
 EEG emotion recognition on DEAP and DREAMER dataset
-modelTotal_v表示IBCSAL在依赖于受试者场景下的分类模型
-modelTotalSubIndependent表示IBCSAL在独立于受试者场景下的分类模型
-stackSubject表示将deap数据集所有受试者的数据堆叠
+
+modelTotal_v表示IBCSAL在依赖于受试者场景下的分类模型;
+modelTotalSubIndependent表示IBCSAL在独立于受试者场景下的分类模型;
+stackSubject表示将deap数据集所有受试者的数据堆叠;
 modelBandMix表示混合不同频带的脑电数据做分类任务
